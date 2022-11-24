@@ -29,8 +29,4 @@ def french_to_english(french_text):
 
     return english_text
 
-print("Hello World")
-english_to_french("Hello")
-print(english_to_french("Hello"))
-
 # end of the code
